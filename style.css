@@ -31,3 +31,9 @@ border: 1px solid rgba(226, 237, 255, 0.29);
 section {
     padding-top: 5rem;
 }
+.gallery-img{
+    width: 100%;
+}
+#gallery .row > * {
+    padding: 0;
+}
